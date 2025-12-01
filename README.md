@@ -32,7 +32,7 @@ pip install opencv-python
 ## ▶️ Run
 
 ```bash
-python yolo_deepsort_mac.py
+python object_tracking.py
 ```
 
 To use webcam:
